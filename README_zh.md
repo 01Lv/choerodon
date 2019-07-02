@@ -103,7 +103,7 @@ Choerodon 的微服务开发框架由微服务后端和前端两个部分组成�
 
 - [wiki-service](../wiki-service.git) - 是知识管理的后端服务。知识管理是便捷的项目协作平台和强大的项目内容管理平台。
 
-- [choerodon-front-wiki](../choerodon-front-wiki.git) - 是知识管理的前端服务，包含了知识管理相关的组件和页面。
+- [choerodon-front-wiki](/choerodon-front-wiki.git) - 是知识管理的前端服务，包含了知识管理相关的组件和页面。
 
 - [test-manager-service](../test-manager-service.git) - 是测试管理后端服务。敏捷化的持续测试工具，可以有效地提高软件测试的效率和质量。
 
@@ -113,7 +113,7 @@ Choerodon 的微服务开发框架由微服务后端和前端两个部分组成�
 
 - [state-machine-service](../state-machine-service) - 是一个管理issue状态流转的服务，包括状态转换前后的校验，转换前后的自动化任务执行等。
 
-- [choerodon-front-issue](../choerodon-front-issue.git) - 该服务负责问题和状态机进程管理，并通过丰富的显示为用户提供更好的用户体验。
+- [choerodon-front-issue](/choerodon-front-issue.git) - 该服务负责问题和状态机进程管理，并通过丰富的显示为用户提供更好的用户体验。
 
 ## 贡献
 
